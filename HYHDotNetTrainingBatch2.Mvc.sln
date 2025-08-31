@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HYHDotNetTrainingBatch2.Mvc", "HYHDotNetTrainingBatch2.Mvc\HYHDotNetTrainingBatch2.Mvc.csproj", "{813B7DA8-E7AD-4F9E-85D5-9D45F2BC187F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{813B7DA8-E7AD-4F9E-85D5-9D45F2BC187F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{813B7DA8-E7AD-4F9E-85D5-9D45F2BC187F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{813B7DA8-E7AD-4F9E-85D5-9D45F2BC187F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{813B7DA8-E7AD-4F9E-85D5-9D45F2BC187F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69E2D970-5981-4986-964F-60F6BADBA7FD}
+	EndGlobalSection
+EndGlobal
